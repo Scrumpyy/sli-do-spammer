@@ -1,5 +1,4 @@
 import requests
-import time
 import random
 
 # See the README.md on where to find these values.
